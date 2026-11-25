@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Screen Notes</string>
+    <string name="save_to_notes">Save to Screen Notes</string>
+    <string name="accessibility_summary">Reads the text on the screen when you tap the floating button or save a selection. Nothing is copied to the clipboard.</string>
+    <string name="accessibility_description">Lets Screen Notes read visible text from the app you are using, so it can be saved as a note. Text is never sent off the phone.</string>
+</resources>
